@@ -51,7 +51,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: gilsonsilvati/rotten-potatoes:v2
+        image: gilsonsilvati/rotten-potatoes:v10
         ports:
         - containerPort: 5000
         env:
